@@ -19,4 +19,5 @@ Dense Layers (Fully Connected): Combine features for classification.
 
 Output Layer:
 
-Binary Classification: 1 neuron with Sigmoid (TB vs Normal).
+Binary Classification: 
+Sigmoid (TB vs Normal).
